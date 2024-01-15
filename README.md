@@ -11,7 +11,6 @@ npm install
 ```sh
 json-server -w ./data/db.json
 
-```sh
 npm run dev
 ```
 
